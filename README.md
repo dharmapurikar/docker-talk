@@ -1,2 +1,3 @@
-# docker-talk
-Material for Docker talk
+# Before you begin
+
+1. docker system prunes
